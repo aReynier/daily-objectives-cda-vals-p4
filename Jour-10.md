@@ -22,7 +22,7 @@
   - [ ] Objectifs
   - [ ] Participants
   - [ ] Fonctionnement
-- [ ] Etude des outils
-  - [ ] GitHub Project
-  - [ ] Trello
-  - [ ] Jira
+- [x] Etude des outils
+  - [x] GitHub Project
+  - [x] Trello
+  - [x] Jira
