@@ -5,7 +5,7 @@
 
 - [ ] Recueil des besoins :
     - [x] Préparer le questionnaire du premier rendez-vous client (tech et non tech)
-    - [ ] Préparer la partie générique du mail récapitulatif après rendez-vous
+    - [x] Préparer la partie générique du mail récapitulatif après rendez-vous
     - [ ] Collecter les exigences fonctionnelles et non fonctionnelles
     - [ ] Prioriser les besoins en fonction de leur importance
 - [ ] Identification des règles de gestion :
