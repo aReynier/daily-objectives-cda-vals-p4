@@ -5,35 +5,35 @@
 ### SQL - DDL et DML
 
 - [ ] Data Definition Language (DDL)
-  - [ ] Savoir créer avec CREATE
-    - [ ] Base de données
-    - [ ] Table
-    - [ ] Index
-  - [ ] Savoir modifier avec ALTER
-    - [ ] Savoir ajouter une colonne
-    - [ ] Savoir modifier une colonne
-    - [ ] Savoir supprimer une colonne
-  - [ ] Savoir utiliser DROP et TRUNCATE
+  - [x] Savoir créer avec CREATE
+    - [x] Base de données
+    - [x] Table
+    - [x] Index
+  - [x] Savoir modifier avec ALTER
+    - [x] Savoir ajouter une colonne
+    - [x] Savoir modifier une colonne
+    - [x] Savoir supprimer une colonne
+  - [x] Savoir utiliser DROP et TRUNCATE
   - [ ] Savoir définir les contraintes
-    - [ ] PRIMARY KEY
-    - [ ] FOREIGN KEY
+    - [x] PRIMARY KEY
+    - [x] FOREIGN KEY
     - [ ] UNIQUE
-    - [ ] NOT NULL
+    - [x] NOT NULL
     - [ ] DEFAULT
     - [ ] CHECK
 
 - [ ] Data Manipulation Language (DML)
-  - [ ] Savoir insérer des données avec INSERT
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] Insertion avec SELECT
-  - [ ] Savoir mettre à jour avec UPDATE
-    - [ ] Mise à jour simple
+  - [x] Savoir insérer des données avec INSERT
+    - [x] Insertion simple
+    - [x] Insertion multiple
+    - [x] Insertion avec SELECT
+  - [x] Savoir mettre à jour avec UPDATE
+    - [x] Mise à jour simple
     - [ ] Mise à jour conditionnelle
-  - [ ] Savoir supprimer avec DELETE
-    - [ ] Suppression simple
+  - [x] Savoir supprimer avec DELETE
+    - [x] Suppression simple
     - [ ] Suppression conditionnelle
-    - [ ] Différence avec TRUNCATE
+    - [x] Différence avec TRUNCATE
 
 - [ ] Exercices pratiques
   - [ ] Création d'une base de données complète
