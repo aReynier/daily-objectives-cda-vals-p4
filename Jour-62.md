@@ -28,7 +28,7 @@
     - [x]  les acteurs
 	- [x] les cas d'utilisation
 	- [x] le système
-  - [ ] Comprendre le lien entre les User Stories et les cas d'utilisation
+  - [x] Comprendre le lien entre les User Stories et les cas d'utilisation
   
 - [ ] Cas pratique
   - [ ] Réaliser une carte mentale des diagrammes
