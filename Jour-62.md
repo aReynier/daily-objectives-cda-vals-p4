@@ -4,7 +4,7 @@
 
 ### UML - Découverte et diagramme de cas d'utilisation
 
-- [ ] Découverte de l'UML
+- [x] Découverte de l'UML
   - [x] Comprendre la signification de l'UML
   - [x] Comprendre les origines de l'UML. Pour a-t-il été créé ? (pour quels besoins)
   - [x] Quels sont les objectifs d'utiliser UML ?
@@ -22,7 +22,7 @@
   - [x] Trouver des outils cloud
   
 - [x] Initiation au diagramme de cas d'utilisation
-  - [ ] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
+  - [x] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
   - [x] Comment représenter un système d'information complet
   - [x] Etudier les concepts clés du diagramme de cas d'utilisation
     - [x]  les acteurs
