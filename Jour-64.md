@@ -9,15 +9,15 @@
 - [ ] Approfondir les connaissances sur le diagramme de classes 
   - [x] Comprendre la notion d'association
   - [x] Etudier les différentes multiplicités et leur signification
-  - [ ] Comprendre l'agrégation
-  - [ ] Comprendre la composition
-  - [ ] Etudier les différences entre les 2
-  - [ ] Intégrer les packages
+  - [x] Comprendre l'agrégation
+  - [x] Comprendre la composition
+  - [x] Etudier les différences entre les 2
+  - [x] Intégrer les packages
   
-- [ ] Comprendre l'héritage
-  - [ ] Savoir représenter un généralisation / une spécialisation
-  - [ ] Représenter une classe abstraite
-  - [ ] Représenter une interface
+- [x] Comprendre l'héritage
+  - [x] Savoir représenter un généralisation / une spécialisation
+  - [x] Représenter une classe abstraite
+  - [x] Représenter une interface
   
 - [ ] Savoir lire un diagramme de classes complets
 
